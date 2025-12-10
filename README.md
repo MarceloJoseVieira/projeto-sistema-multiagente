@@ -70,7 +70,7 @@ A pasta principal AZUL-GAME, que contém o seguinte código-fonte do projeto:
 
 Figura 1: Simulação do "torneio" entre os agentes.
 
-Cada confronto, foi realizado 100 partidas, avança para a final o agente que obteve o manior número de vitórias.
+Para cada confronto, foram realizadas 100 partidas, avançando para a final o agente que obteve o maior número de vitórias.
 
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/2fdafad3-b9b1-4e6d-a06e-9c87be91773c" /><br>
 
