@@ -68,7 +68,17 @@ A pasta principal AZUL-GAME, que contém o seguinte código-fonte do projeto:
 
 ## Resultados e Demonstração
 
-[Adicione prints da aplicação em execução ou gráficos com os resultados do modelo/agente. Se for uma aplicação Web, coloque um print da interface.]
+Figura 1: Simulação do "torneio" entre os agentes.
+
+Cada confronto, foi realizado 100 partidas, avança para a final o agente que obteve o manior número de vitórias.
+
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/2fdafad3-b9b1-4e6d-a06e-9c87be91773c" /><br>
+
+Figura 2: Resultado final de uma partida.
+
+Partida interativa entre Player 0 = Greedy e Player 1 = Minimax, a saída via terminal mostra as jogadas de cada agente.
+
+<img width="250" alt="Image" src="https://github.com/user-attachments/assets/70d74037-6f24-43bd-9671-337bcd5d111b" />
 
 ## Referências
 
